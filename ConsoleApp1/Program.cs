@@ -11,11 +11,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("First step of many, and many more to come!");
-            Console.WriteLine("First step of many, and many more to come!");
-            Console.WriteLine("First step of many, and many more to come!");
-            Console.WriteLine("First step of many, and many more to come!");
-            Console.WriteLine("First step of many, and many more to come!");
-            Console.WriteLine("First step of many, and many more to come!");
         }
     }
 }
